@@ -31,6 +31,18 @@ y obtén un **AI Skill que realmente trabaja como ellos**
 
 ---
 
+> 🆕 **Actualización 2025.04.07** — ¡El entusiasmo de la comunidad por los remixes de dot-skill ha sido increíble! He creado una galería comunitaria — ¡los PRs son bienvenidos!
+>
+> Comparte cualquier skill o meta-skill y lleva tráfico directamente a tu propio repo de GitHub. Sin intermediarios.
+>
+> 👉 **[titanwings.github.io/colleague-skill-site](https://titanwings.github.io/colleague-skill-site/)**
+>
+> Ya incluidos: 户晨风.skill · 峰哥亡命天涯.skill · 罗翔.skill y más
+>
+> ⏳ Los PRs se revisan manualmente — puede ser lento, ¡gracias por tu paciencia!
+
+---
+
 Created by [@titanwings](https://github.com/titanwings) | Powered by Shanghai AI Lab · AI Safety Center
 
 ## Fuentes de datos soportadas
