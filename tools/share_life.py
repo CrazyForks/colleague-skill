@@ -296,10 +296,10 @@ def pick_scene(parser: PersonaParser, scene_override: str | None = None) -> str:
 
     # Fallback: generic scenes based on role/energy
     role_scenes = [
-        f"working at a modern office, {parser.role or 'professional'}, soft focus, golden hour light",
         "commute home on a subway, earphones in, watching the city scroll by",
         "lunch break at a quiet corner, lost in thought over a bowl of noodles",
         "evening walk in a neighborhood, streetlights just turning on, hands in pockets",
+        "sitting by a window with a drink, watching the rain outside",
     ]
 
     candidates = hobby_scenes + role_scenes
@@ -321,17 +321,28 @@ def build_image_prompt(parser: PersonaParser, scene: str) -> str:
     visual_kw = ", ".join(parser.visual_keywords[:4]) if parser.visual_keywords else ""
     vibe = parser.emoji_vibe
 
+    # Randomly pick a sharing format for variety
+    sharing_formats = [
+        "casual selfie, person holding phone slightly above, natural expression, not posed",
+        "mirror selfie, holding phone up in front of mirror, relaxed outfit, natural background",
+        "photo of something they love — an object, a view, a small moment — no face needed",
+        "candid shot of them in the scene, like a friend took it without them noticing",
+        "POV shot of what they're looking at right now — their perspective",
+    ]
+    sharing_style = random.choice(sharing_formats)
+
     prompt_parts = [
-        f"A slice-of-life illustration of {character_desc}.",
+        f"Photo of {character_desc}.",
         f"Scene: {scene}.",
+        f"Format: {sharing_style}.",
         f"Energy: {vibe}.",
     ]
     if visual_kw:
         prompt_parts.append(f"Visual character cues: {visual_kw}.")
     prompt_parts.append(
-        "Style: photorealistic, warm cinematic photography, soft natural lighting, "
-        "shot on film, detailed lived-in environment, character in a natural relaxed pose, "
-        "feels like a candid real moment, no text overlays, no watermarks, high quality."
+        "Style: photorealistic, feels like a casual social media post, "
+        "everyday life snapshot, shot on phone camera, natural imperfect lighting, "
+        "authentic and unfiltered, no studio look, no text overlays, no watermarks."
     )
 
     return " ".join(prompt_parts)
