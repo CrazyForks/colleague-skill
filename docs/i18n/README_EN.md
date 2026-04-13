@@ -27,7 +27,7 @@ Provide source materials (Feishu messages, DingTalk docs, Slack messages, emails
 plus your subjective description of the person<br>
 and get an **AI Skill that actually works like them**
 
-[Supported Sources](#supported-data-sources) · [Install](#install) · [Usage](#usage) · [Demo](#demo) · [Detailed Install](INSTALL.md) · [**中文**](README.md) · [**Español**](README_ES.md) · [**Deutsch**](README_DE.md) · [**日本語**](README_JA.md) · [**Русский**](README_RU.md) · [**Português**](README_PT.md) · [💬 Discord](https://discord.gg/aRjmJBdK)
+[Supported Sources](#supported-data-sources) · [Install](#install) · [Usage](#usage) · [Demo](#demo) · [Detailed Install](../../INSTALL.md) · [**中文**](../../README.md) · [**Español**](README_ES.md) · [**Deutsch**](README_DE.md) · [**日本語**](README_JA.md) · [**Русский**](README_RU.md) · [**Português**](README_PT.md) · [💬 Discord](https://discord.gg/aRjmJBdK)
 
 </div>
 
@@ -105,7 +105,7 @@ git clone https://github.com/titanwings/colleague-skill ~/.openclaw/workspace/sk
 pip3 install -r requirements.txt
 ```
 
-> Feishu/DingTalk/Slack auto-collection requires App credentials. See [INSTALL.md](INSTALL.md) for details.
+> Feishu/DingTalk/Slack auto-collection requires App credentials. See [INSTALL.md](../../INSTALL.md) for details.
 
 ---
 

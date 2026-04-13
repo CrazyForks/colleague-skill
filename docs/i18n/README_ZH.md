@@ -27,9 +27,9 @@
 生成一个**真正能替他工作的 AI Skill**<br>
 用他的技术规范写代码，用他的语气回答问题，知道他什么时候会甩锅
 
-[数据来源](#支持的数据来源) · [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [详细安装说明](INSTALL.md) · [💬 Discord](https://discord.gg/aRjmJBdK)
+[数据来源](#支持的数据来源) · [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [详细安装说明](../../INSTALL.md) · [💬 Discord](https://discord.gg/aRjmJBdK)
 
-[**English**](README.md) · [**Español**](README_ES.md) · [**Deutsch**](README_DE.md) · [**日本語**](README_JA.md) · [**Русский**](README_RU.md) · [**Português**](README_PT.md)
+[**English**](../../README.md) · [**Español**](README_ES.md) · [**Deutsch**](README_DE.md) · [**日本語**](README_JA.md) · [**Русский**](README_RU.md) · [**Português**](README_PT.md)
 
 </div>
 
@@ -110,7 +110,7 @@ git clone https://github.com/titanwings/colleague-skill ~/.openclaw/workspace/sk
 pip3 install -r requirements.txt
 ```
 
-> 飞书/钉钉自动采集需配置 App 凭证，详见 [INSTALL.md](INSTALL.md)
+> 飞书/钉钉自动采集需配置 App 凭证，详见 [INSTALL.md](../../INSTALL.md)
 
 ---
 

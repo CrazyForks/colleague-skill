@@ -29,7 +29,7 @@ and get an **AI Skill that actually works like them**
 
 [Supported Sources](#supported-data-sources) · [Install](#install) · [Usage](#usage) · [Demo](#demo) · [Detailed Install](INSTALL.md) · [💬 Discord](https://discord.gg/aRjmJBdK)
 
-[**中文**](README_ZH.md) · [**Español**](README_ES.md) · [**Deutsch**](README_DE.md) · [**日本語**](README_JA.md) · [**Русский**](README_RU.md) · [**Português**](README_PT.md)
+[**中文**](docs/i18n/README_ZH.md) · [**Español**](docs/i18n/README_ES.md) · [**Deutsch**](docs/i18n/README_DE.md) · [**日本語**](docs/i18n/README_JA.md) · [**Русский**](docs/i18n/README_RU.md) · [**Português**](docs/i18n/README_PT.md)
 
 </div>
 
