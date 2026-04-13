@@ -35,7 +35,13 @@
 
 ---
 
-> 🆕 **2025.04.07 更新** — 大家对二创 dot-skill 热情超高！我搓了一个社区平台，欢迎投 PR 一起维护分享！
+> 🆕 **2026.04.13 更新** — **dot-skill 路线图正式发布！** colleague.skill 正在进化为 **dot-skill** —— 蒸馏任何人，不止同事。多模态输出、技能生态等更多内容即将到来。
+>
+> 👉 **[查看完整路线图](ROADMAP_ZH.md)** · **[💬 Discord](https://discord.gg/aRjmJBdK)**
+>
+> 我们还整理了 Issues、新增了 Milestones，并建立了[公开项目看板](https://github.com/users/titanwings/projects/1)。欢迎社区贡献 —— 看看 `good-first-issue` 标签！
+
+> 🆕 **2026.04.07 更新** — 大家对二创 dot-skill 热情超高！我搓了一个社区平台，欢迎投 PR 一起维护分享！
 >
 > 任何 skill 或者 meta-skill 可以一起分享，可以直接给大家自己的 GitHub repo 引流～ 没有中间商赚差价
 >

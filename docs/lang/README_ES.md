@@ -33,7 +33,13 @@ y obtén un **AI Skill que realmente trabaja como ellos**
 
 ---
 
-> 🆕 **Actualización 2025.04.07** — ¡El entusiasmo de la comunidad por los remixes de dot-skill ha sido increíble! He creado una galería comunitaria — ¡los PRs son bienvenidos!
+> 🆕 **Actualización 2026.04.13** — **¡La hoja de ruta de dot-skill está aquí!** colleague.skill está evolucionando a **dot-skill** — destila a cualquier persona, no solo colegas. Salida multimodal, ecosistemas de skills y más en camino.
+>
+> 👉 **[Leer la hoja de ruta completa](ROADMAP_ES.md)** · **[💬 Discord](https://discord.gg/aRjmJBdK)**
+>
+> También hemos organizado los Issues, añadido Milestones y creado un [tablero público del proyecto](https://github.com/users/titanwings/projects/1). ¡Contribuciones bienvenidas — revisa las etiquetas `good-first-issue`!
+
+> 🆕 **Actualización 2026.04.07** — ¡El entusiasmo de la comunidad por los remixes de dot-skill ha sido increíble! He creado una galería comunitaria — ¡los PRs son bienvenidos!
 >
 > Comparte cualquier skill o meta-skill y lleva tráfico directamente a tu propio repo de GitHub. Sin intermediarios.
 >
