@@ -35,7 +35,7 @@
 
 > 🆕 **2026.04.17 更新** — **WeChat グループ 4 開設！** dot-skill コミュニティで一緒に遊びましょう — skill をシェアしたり、機能を議論したり、Tips を交換したり。
 >
-> <img src="../assets/wechat-group-qr-3.png" alt="dot-skill WeChat グループ QR" width="240">
+> <img src="../assets/wechat-group-qr-4.png" alt="dot-skill WeChat グループ QR" width="240">
 >
 > QR は 7 日ごとに更新されます — 期限切れの場合は Discord で連絡してください。
 

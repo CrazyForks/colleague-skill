@@ -35,7 +35,7 @@
 
 > 🆕 **Обновление 2026.04.17** — **Группа WeChat 4 создана!** Присоединяйтесь к сообществу dot-skill — делитесь навыками, обсуждайте функции, обменивайтесь советами.
 >
-> <img src="../assets/wechat-group-qr-3.png" alt="QR-код группы WeChat dot-skill" width="240">
+> <img src="../assets/wechat-group-qr-4.png" alt="QR-код группы WeChat dot-skill" width="240">
 >
 > QR обновляется каждые 7 дней — если истёк, пишите мне в Discord.
 
